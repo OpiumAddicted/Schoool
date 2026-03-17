@@ -4,7 +4,9 @@
 
 <details>
 <summary>스크린샷</summary>
+  
 ![mobile](static/images/mobile.png)
+
 </details>
 
 ## 사용된 스택
