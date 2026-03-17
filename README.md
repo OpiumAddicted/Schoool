@@ -1,6 +1,6 @@
 <h1 style="text-align: middle">Schoool</h1>
 * 대구소프트웨어마이스터고 학생용 대시보드입니다.
-- 급식 확인하기 기능을 사용하려면 (NEIS API)[https://open.neis.go.kr/portal/guide/apiIntroPage.do] 키가 필요합니다.
+- 급식 확인하기 기능을 사용하려면 [NEIS API](https://open.neis.go.kr/portal/guide/apiIntroPage.do) 키가 필요합니다.
 
 <details>
 <summary>스크린샷</summary>
