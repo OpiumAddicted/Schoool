@@ -5,5 +5,6 @@
 - ⚠️ 현재 서비스 중인 웹사이트는 Netlify를 사용하여 정적 웹으로 운영되고 있으므로 급식 확인하기 기능이 없습니다.
 
 ## 사용된 스택
-* Python + Flask
-* Gunicorn + Nginx
+* `Backend` Python + Flask (Jinja)
+* `Frontend` HTML + CSS + JavaScript
+* `Deploy` Gunicorn + Nginx
